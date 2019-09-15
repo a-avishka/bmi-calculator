@@ -16,6 +16,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("BMI Calculator");
         primaryStage.setScene(new Scene(root, 586, 427));
+        primaryStage.setResizable(false);
         primaryStage.show();
 
 

@@ -1,5 +1,8 @@
 # BMI Calculator
 
+
+![enter image description here](https://lh3.googleusercontent.com/RkG-NTNbnsbuCpYCr0cjrmyipn1ujgUJcjFz68GRbTTuTyFiLBKgz5x9DV5p9MGfDTHGL6iGQBU "BMI calculator")
+
 A BMI calculator app that tells you the health-condition by using statistics from WHO. Only valid from age 5-19.
 
 ## Installation
@@ -12,4 +15,3 @@ Extract it and run the .exe file.
 
 Select gender , enter the birth month and year, height and weight and click calculate.
 
-![enter image description here](https://lh3.googleusercontent.com/RkG-NTNbnsbuCpYCr0cjrmyipn1ujgUJcjFz68GRbTTuTyFiLBKgz5x9DV5p9MGfDTHGL6iGQBU "BMI calculator")

@@ -7,8 +7,7 @@ A BMI calculator app that tells you the health-condition by using statistics fro
 
 ## Installation
 
-Download the BMI-Calculator-2.0.zip file.
-Extract it and run the .exe file.
+Download and run the .exe file.
 
 
 ## Usage
